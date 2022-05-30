@@ -1,2 +1,2 @@
 Branch creation
-Merging of that branch
+Merging of branch
